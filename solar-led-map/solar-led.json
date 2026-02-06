@@ -1,0 +1,1286 @@
+[
+  {
+     "code": "Kuala Linggi",
+     "description": "1",
+     "position": { "lat": 2.3861462, "lng": 102.0485383 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kuala Linggi",
+     "description": "2",
+     "position": { "lat": 2.3635582, "lng": 102.0466103 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kuala Linggi",
+     "description": "3",
+     "position": { "lat": 2.3695727, "lng": 102.0021525 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kuala Linggi",
+     "description": "4",
+     "position": { "lat": 2.3453636, "lng": 102.0570564 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kuala Linggi",
+     "description": "5",
+     "position": { "lat": 2.356084, "lng": 102.0393577 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kuala Linggi",
+     "description": "6",
+     "position": { "lat": 2.3707873, "lng": 102.019593 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kuala Linggi",
+     "description": "7",
+     "position": { "lat": 2.362637, "lng": 102.0342499 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kuala Linggi",
+     "description": "8",
+     "position": { "lat": 2.37945, "lng": 101.974617 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer Limau",
+     "description": "1",
+     "position": { "lat": 2.3568572, "lng": 102.1109064 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer Limau",
+     "description": "2",
+     "position": { "lat": 2.3565331, "lng": 102.1100416 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer Limau",
+     "description": "3",
+     "position": { "lat": 2.3577288, "lng": 102.1124918 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer Limau",
+     "description": "4",
+     "position": { "lat": 2.42631, "lng": 102.0787829 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer Limau",
+     "description": "5",
+     "position": { "lat": 2.4208911, "lng": 102.0858349 },
+     "category": "DUN"
+  },
+  {
+     "code": "Lendu",
+     "description": "1",
+     "position": { "lat": 2.3473327, "lng": 102.108459 },
+     "category": "DUN"
+  },
+  {
+     "code": "Lendu",
+     "description": "2",
+     "position": { "lat": 2.35219, "lng": 102.1040934 },
+     "category": "DUN"
+  },
+  {
+     "code": "Lendu",
+     "description": "3",
+     "position": { "lat": 2.3521812, "lng": 102.098594 },
+     "category": "DUN"
+  },
+  {
+     "code": "Lendu",
+     "description": "4",
+     "position": { "lat": 2.3475881, "lng": 102.1082395 },
+     "category": "DUN"
+  },
+  {
+     "code": "Lendu",
+     "description": "5, 6, 7, 8, 9, 10",
+     "position": { "lat": 2.3370411, "lng": 102.1039326 },
+     "category": "DUN"
+  },
+  {
+     "code": "Machap Jaya",
+     "description": "1",
+     "position": { "lat": 2.3545266, "lng": 102.2399019 },
+     "category": "DUN"
+  },
+  {
+     "code": "Machap Jaya",
+     "description": "2",
+     "position": { "lat": 2.3834174, "lng": 102.3459121 },
+     "category": "DUN"
+  },
+  {
+     "code": "Machap Jaya",
+     "description": "3",
+     "position": { "lat": 2.4184924, "lng": 102.2959113 },
+     "category": "DUN"
+  },
+  {
+     "code": "Machap Jaya",
+     "description": "4",
+     "position": { "lat": 2.4184281, "lng": 102.2944246 },
+     "category": "DUN"
+  },
+  {
+     "code": "Machap Jaya",
+     "description": "5",
+     "position": { "lat": 2.4722494, "lng": 102.3433441 },
+     "category": "DUN"
+  },
+  {
+     "code": "Machap Jaya",
+     "description": "6",
+     "position": { "lat": 2.4730588, "lng": 102.3431205 },
+     "category": "DUN"
+  },
+  {
+     "code": "Machap Jaya",
+     "description": "7",
+     "position": { "lat": 2.4723259, "lng": 102.3465588 },
+     "category": "DUN"
+  },
+  {
+     "code": "Machap Jaya",
+     "description": "8",
+     "position": { "lat": 2.4511105, "lng": 102.3034064 },
+     "category": "DUN"
+  },
+  {
+     "code": "Gadek",
+     "description": "1A",
+     "position": { "lat": 2.4683194, "lng": 102.2171982 },
+     "category": "DUN"
+  },
+  {
+     "code": "Gadek",
+     "description": "1B",
+     "position": { "lat": 2.468513, "lng": 102.2169361 },
+     "category": "DUN"
+  },
+  {
+     "code": "Gadek",
+     "description": "2A",
+     "position": { "lat": 2.4216788, "lng": 102.2519941 },
+     "category": "DUN"
+  },
+  {
+     "code": "Gadek",
+     "description": "2B",
+     "position": { "lat": 2.412988, "lng": 102.2502939 },
+     "category": "DUN"
+  },
+  {
+     "code": "Gadek",
+     "description": "3",
+     "position": { "lat": 2.3976224, "lng": 102.2070418 },
+     "category": "DUN"
+  },
+  {
+     "code": "Gadek",
+     "description": "4",
+     "position": { "lat": 2.401331, "lng": 102.2026275 },
+     "category": "DUN"
+  },
+  {
+     "code": "Gadek",
+     "description": "5",
+     "position": { "lat": 2.3978022, "lng": 102.2516945 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rembia",
+     "description": "1",
+     "position": { "lat": 2.3606386, "lng": 102.1774129 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rembia",
+     "description": "2",
+     "position": { "lat": 2.3598385, "lng": 102.1760326 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rembia",
+     "description": "3",
+     "position": { "lat": 2.3561794, "lng": 102.1750661 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rembia",
+     "description": "4",
+     "position": { "lat": 2.3522735, "lng": 102.177294 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rembia",
+     "description": "5",
+     "position": { "lat": 2.3715727, "lng": 102.2111781 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rembia",
+     "description": "6",
+     "position": { "lat": 2.3515932, "lng": 102.2004075 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rembia",
+     "description": "7",
+     "position": { "lat": 2.3531951, "lng": 102.2220842 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rembia",
+     "description": "8",
+     "position": { "lat": 2.3523951, "lng": 102.221773 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "1",
+     "position": { "lat": 2.3100698, "lng": 102.3002334 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "2",
+     "position": { "lat": 2.3143835, "lng": 102.2824538 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "3",
+     "position": { "lat": 2.346381, "lng": 102.2528495 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "4",
+     "position": { "lat": 2.3117239, "lng": 102.2662614 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "5",
+     "position": { "lat": 2.3342903, "lng": 102.2576276 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "6",
+     "position": { "lat": 2.2991375, "lng": 102.2633745 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "7",
+     "position": { "lat": 2.3159796, "lng": 102.2577035 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "8",
+     "position": { "lat": 2.3516019, "lng": 102.2488682 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "9",
+     "position": { "lat": 2.3522086, "lng": 102.2792747 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "10",
+     "position": { "lat": 2.3164053, "lng": 102.2576411 },
+     "category": "DUN"
+  },
+  {
+     "code": "Durian Tunggal",
+     "description": "11",
+     "position": { "lat": 2.3345394, "lng": 102.2574073 },
+     "category": "DUN"
+  },
+  {
+     "code": "Taboh Naning",
+     "description": "1",
+     "position": { "lat": 2.4266137, "lng": 102.1888374 },
+     "category": "DUN"
+  },
+  {
+     "code": "Taboh Naning",
+     "description": "2",
+     "position": { "lat": 2.4034237, "lng": 102.1826016 },
+     "category": "DUN"
+  },
+  {
+     "code": "Taboh Naning",
+     "description": "3",
+     "position": { "lat": 2.4196107, "lng": 102.149815 },
+     "category": "DUN"
+  },
+  {
+     "code": "Taboh Naning",
+     "description": "4",
+     "position": { "lat": 2.4484634, "lng": 102.1965732 },
+     "category": "DUN"
+  },
+  {
+     "code": "Taboh Naning",
+     "description": "5",
+     "position": { "lat": 2.4351753, "lng": 102.1768132 },
+     "category": "DUN"
+  },
+  {
+     "code": "Taboh Naning",
+     "description": "6",
+     "position": { "lat": 2.470926, "lng": 102.18129 },
+     "category": "DUN"
+  },
+  {
+     "code": "Taboh Naning",
+     "description": "7",
+     "position": { "lat": 2.4309958, "lng": 102.1373911 },
+     "category": "DUN"
+  },
+  {
+     "code": "Taboh Naning",
+     "description": "8",
+     "position": { "lat": 2.4266295, "lng": 102.1293764 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Udang",
+     "description": "1",
+     "position": { "lat": 2.2734897, "lng": 102.1473919 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Udang",
+     "description": "2",
+     "position": { "lat": 2.2778006, "lng": 102.1408945 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Udang",
+     "description": "3",
+     "position": { "lat": 2.2781371, "lng": 102.140397 },
+     "category": "DUN"
+  },
+  {
+     "code": "Paya Rumput",
+     "description": "1",
+     "position": { "lat": 2.3020193, "lng": 102.2108783 },
+     "category": "DUN"
+  },
+  {
+     "code": "Paya Rumput",
+     "description": "2",
+     "position": { "lat": 2.3017327, "lng": 102.2106002 },
+     "category": "DUN"
+  },
+  {
+     "code": "Paya Rumput",
+     "description": "3",
+     "position": { "lat": 2.3016026, "lng": 102.2103308 },
+     "category": "DUN"
+  },
+  {
+     "code": "Paya Rumput",
+     "description": "4",
+     "position": { "lat": 2.2930657, "lng": 102.224893 },
+     "category": "DUN"
+  },
+  {
+     "code": "Paya Rumput",
+     "description": "5",
+     "position": { "lat": 2.2927359, "lng": 102.2245073 },
+     "category": "DUN"
+  },
+  {
+     "code": "Paya Rumput",
+     "description": "6",
+     "position": { "lat": 2.2935706, "lng": 102.2243631 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pengkalan Batu",
+     "description": "1",
+     "position": { "lat": 2.235529, "lng": 102.2637554 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pengkalan Batu",
+     "description": "2",
+     "position": { "lat": 2.2160524, "lng": 102.2642854 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pengkalan Batu",
+     "description": "3",
+     "position": { "lat": 2.2138808, "lng": 102.2590292 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pengkalan Batu",
+     "description": "4",
+     "position": { "lat": 2.2069469, "lng": 102.2769347 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pengkalan Batu",
+     "description": "5",
+     "position": { "lat": 2.216321, "lng": 102.2753575 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pengkalan Batu",
+     "description": "6",
+     "position": { "lat": 2.2132192, "lng": 102.2743759 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pengkalan Batu",
+     "description": "7",
+     "position": { "lat": 2.2130528, "lng": 102.261138 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer Keroh",
+     "description": "1",
+     "position": { "lat": 2.2621073, "lng": 102.2546227 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer Keroh",
+     "description": "2",
+     "position": { "lat": 2.2627186, "lng": 102.2547453 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bukit Katil",
+     "description": "1",
+     "position": { "lat": 2.2261021, "lng": 102.2885805 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bukit Katil",
+     "description": "2",
+     "position": { "lat": 2.228907, "lng": 102.2764129 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bukit Katil",
+     "description": "3",
+     "position": { "lat": 2.2077953, "lng": 102.278094 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bukit Katil",
+     "description": "4",
+     "position": { "lat": 2.2159894, "lng": 102.2837819 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pantai Kundor",
+     "description": "1",
+     "position": { "lat": 2.221333, "lng": 102.1646964 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pantai Kundor",
+     "description": "2",
+     "position": { "lat": 2.2436796, "lng": 102.1603364 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pantai Kundor",
+     "description": "3",
+     "position": { "lat": 2.2400663, "lng": 102.1513753 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pantai Kundor",
+     "description": "4",
+     "position": { "lat": 2.2215564, "lng": 102.1597837 },
+     "category": "DUN"
+  },
+  {
+     "code": "Pantai Kundor",
+     "description": "5",
+     "position": { "lat": 2.2479999, "lng": 102.1448173 },
+     "category": "DUN"
+  },
+  {
+     "code": "Klebang",
+     "description": "1",
+     "position": { "lat": 2.232969, "lng": 102.2061222 },
+     "category": "DUN"
+  },
+  {
+     "code": "Klebang",
+     "description": "2",
+     "position": { "lat": 2.2335255, "lng": 102.2060921 },
+     "category": "DUN"
+  },
+  {
+     "code": "Klebang",
+     "description": "3",
+     "position": { "lat": 2.2339411, "lng": 102.2060689 },
+     "category": "DUN"
+  },
+  {
+     "code": "Klebang",
+     "description": "4",
+     "position": { "lat": 2.2339564, "lng": 102.206535 },
+     "category": "DUN"
+  },
+  {
+     "code": "Klebang",
+     "description": "5",
+     "position": { "lat": 2.2330271, "lng": 102.206819 },
+     "category": "DUN"
+  },
+  {
+     "code": "Klebang",
+     "description": "6",
+     "position": { "lat": 2.2223222, "lng": 102.199352 },
+     "category": "DUN"
+  },
+  {
+     "code": "Klebang",
+     "description": "7",
+     "position": { "lat": 2.221243, "lng": 102.1952026 },
+     "category": "DUN"
+  },
+  {
+     "code": "Klebang",
+     "description": "8",
+     "position": { "lat": 2.2205858, "lng": 102.1965957 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kesidang",
+     "description": "1",
+     "position": { "lat": 2.2487634, "lng": 102.2098477 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kesidang",
+     "description": "2",
+     "position": { "lat": 2.2488848, "lng": 102.2102775 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kesidang",
+     "description": "3",
+     "position": { "lat": 2.2257587, "lng": 102.2327752 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kesidang",
+     "description": "4",
+     "position": { "lat": 2.2297826, "lng": 102.2305442 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kesidang",
+     "description": "5",
+     "position": { "lat": 2.2423454, "lng": 102.2523749 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kesidang",
+     "description": "6",
+     "position": { "lat": 2.2502765, "lng": 102.2096606 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kesidang",
+     "description": "7",
+     "position": { "lat": 2.2300035, "lng": 102.2302094 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kota Laksamana",
+     "description": "1",
+     "position": { "lat": 2.2056555, "lng": 102.2361632 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kota Laksamana",
+     "description": "2",
+     "position": { "lat": 2.2052235, "lng": 102.2356285 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kota Laksamana",
+     "description": "3",
+     "position": { "lat": 2.2062427, "lng": 102.2307316 },
+     "category": "DUN"
+  },
+  {
+     "code": "Kota Laksamana",
+     "description": "4",
+     "position": { "lat": 2.2059924, "lng": 102.2309029 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bandar Hilir",
+     "description": "1",
+     "position": { "lat": 2.1883371, "lng": 102.2619055 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bandar Hilir",
+     "description": "2",
+     "position": { "lat": 2.1948312, "lng": 102.2531174 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bandar Hilir",
+     "description": "3",
+     "position": { "lat": 2.1928492, "lng": 102.2533621 },
+     "category": "DUN"
+  },
+  {
+     "code": "Duyong",
+     "description": "1",
+     "position": { "lat": 2.2051958, "lng": 102.2830384 },
+     "category": "DUN"
+  },
+  {
+     "code": "Duyong",
+     "description": "2",
+     "position": { "lat": 2.2099983, "lng": 102.2618932 },
+     "category": "DUN"
+  },
+  {
+     "code": "Duyong",
+     "description": "3",
+     "position": { "lat": 2.194922, "lng": 102.2911906 },
+     "category": "DUN"
+  },
+  {
+     "code": "Duyong",
+     "description": "4",
+     "position": { "lat": 2.2059164, "lng": 102.2933885 },
+     "category": "DUN"
+  },
+  {
+     "code": "Duyong",
+     "description": "5",
+     "position": { "lat": 2.2064089, "lng": 102.260626 },
+     "category": "DUN"
+  },
+  {
+     "code": "Telok Mas",
+     "description": "1",
+     "position": { "lat": 2.1673313, "lng": 102.3211779 },
+     "category": "DUN"
+  },
+  {
+     "code": "Telok Mas",
+     "description": "2",
+     "position": { "lat": 2.1842022, "lng": 102.3183506 },
+     "category": "DUN"
+  },
+  {
+     "code": "Telok Mas",
+     "description": "3",
+     "position": { "lat": 2.1821489, "lng": 102.3196068 },
+     "category": "DUN"
+  },
+  {
+     "code": "Telok Mas",
+     "description": "4",
+     "position": { "lat": 2.1845732, "lng": 102.3174416 },
+     "category": "DUN"
+  },
+  {
+     "code": "Telok Mas",
+     "description": "5",
+     "position": { "lat": 2.183955, "lng": 102.3167261 },
+     "category": "DUN"
+  },
+  {
+     "code": "Telok Mas",
+     "description": "6",
+     "position": { "lat": 2.1852018, "lng": 102.2919574 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer molek",
+     "description": "1",
+     "position": { "lat": 2.2154632, "lng": 102.3284901 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer molek",
+     "description": "2",
+     "position": { "lat": 2.2157947, "lng": 102.3282723 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer molek",
+     "description": "3",
+     "position": { "lat": 2.2084865, "lng": 102.3287587 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer molek",
+     "description": "4",
+     "position": { "lat": 2.2150142, "lng": 102.3206765 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer molek",
+     "description": "5",
+     "position": { "lat": 2.21523, "lng": 102.3202561 },
+     "category": "DUN"
+  },
+  {
+     "code": "Ayer molek",
+     "description": "6",
+     "position": { "lat": 2.2089738, "lng": 102.3291316 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "1",
+     "position": { "lat": 2.4208672, "lng": 102.5026436 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "2",
+     "position": { "lat": 2.4187847, "lng": 102.482592 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "3",
+     "position": { "lat": 2.4053141, "lng": 102.4905343 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "4",
+     "position": { "lat": 2.4402546, "lng": 102.4675648 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "5",
+     "position": { "lat": 2.444899, "lng": 102.4718014 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "6",
+     "position": { "lat": 2.4429384, "lng": 102.4714451 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "7",
+     "position": { "lat": 2.4395588, "lng": 102.4684908 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "8",
+     "position": { "lat": 2.4395558, "lng": 102.4727473 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "9",
+     "position": { "lat": 2.3845831, "lng": 102.4996899 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "10",
+     "position": { "lat": 2.3828036, "lng": 102.5010221 },
+     "category": "DUN"
+  },
+  {
+     "code": "Asahan",
+     "description": "11",
+     "position": { "lat": 2.3824476, "lng": 102.5054175 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "1",
+     "position": { "lat": 2.2890942, "lng": 102.4596367 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "2",
+     "position": { "lat": 2.2925387, "lng": 102.4821385 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "3",
+     "position": { "lat": 2.2938542, "lng": 102.4924782 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "4",
+     "position": { "lat": 2.2907048, "lng": 102.4963475 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "5",
+     "position": { "lat": 2.3175561, "lng": 102.4233701 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "6",
+     "position": { "lat": 2.3130832, "lng": 102.4347013 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "7",
+     "position": { "lat": 2.296367, "lng": 102.4439185 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "8",
+     "position": { "lat": 2.3282851, "lng": 102.508483 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "9",
+     "position": { "lat": 2.3421875, "lng": 102.4235457 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "10",
+     "position": { "lat": 2.3115858, "lng": 102.4395699 },
+     "category": "DUN"
+  },
+  {
+     "code": "Rim",
+     "description": "11",
+     "position": { "lat": 2.2781671, "lng": 102.4903425 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "1",
+     "position": { "lat": 2.1388006, "lng": 102.3832373 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "2",
+     "position": { "lat": 2.1657584, "lng": 102.365062 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "3",
+     "position": { "lat": 2.1663204, "lng": 102.3653346 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "4",
+     "position": { "lat": 2.1666066, "lng": 102.3652778 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "5",
+     "position": { "lat": 2.1670999, "lng": 102.3648589 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "6",
+     "position": { "lat": 2.1675599, "lng": 102.3636994 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "7",
+     "position": { "lat": 2.1680085, "lng": 102.3635101 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "8",
+     "position": { "lat": 2.1686804, "lng": 102.3635181 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "9",
+     "position": { "lat": 2.1694989, "lng": 102.3630925 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "10",
+     "position": { "lat": 2.1703623, "lng": 102.3629615 },
+     "category": "DUN"
+  },
+  {
+     "code": "Serkam",
+     "description": "11",
+     "position": { "lat": 2.1711917, "lng": 102.3630207 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "1",
+     "position": { "lat": 2.1736654, "lng": 102.5001331 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "2",
+     "position": { "lat": 2.1499612, "lng": 102.4832729 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "3",
+     "position": { "lat": 2.1204762, "lng": 102.5003687 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "4",
+     "position": { "lat": 2.1730797, "lng": 102.4994096 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "5",
+     "position": { "lat": 2.1696089, "lng": 102.5004164 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "6",
+     "position": { "lat": 2.1395054, "lng": 102.5094526 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "7",
+     "position": { "lat": 2.170153, "lng": 102.4993686 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "8",
+     "position": { "lat": 2.1674702, "lng": 102.4899542 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "9",
+     "position": { "lat": 2.1650089, "lng": 102.494656 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "10",
+     "position": { "lat": 2.1720995, "lng": 102.5023109 },
+     "category": "DUN"
+  },
+  {
+     "code": "Sungai Rambai",
+     "description": "11",
+     "position": { "lat": 2.1437043, "lng": 102.4616723 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "1",
+     "position": { "lat": 2.2590066, "lng": 102.3324311 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "2",
+     "position": { "lat": 2.2604761, "lng": 102.3298319 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "3",
+     "position": { "lat": 2.2732188, "lng": 102.3291804 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "4",
+     "position": { "lat": 2.2726528, "lng": 102.3293194 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "5",
+     "position": { "lat": 2.2595425, "lng": 102.33139 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "6",
+     "position": { "lat": 2.2586359, "lng": 102.333829 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "7",
+     "position": { "lat": 2.2567432, "lng": 102.3335082 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "8",
+     "position": { "lat": 2.2568909, "lng": 102.3398276 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "9",
+     "position": { "lat": 2.2549994, "lng": 102.3411018 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "10",
+     "position": { "lat": 2.2543422, "lng": 102.3432333 },
+     "category": "DUN"
+  },
+  {
+     "code": "Bemban",
+     "description": "11",
+     "position": { "lat": 2.2434664, "lng": 102.3421907 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "1",
+     "position": { "lat": 2.279436, "lng": 102.4018271 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "2",
+     "position": { "lat": 2.127907, "lng": 102.4221578 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "3",
+     "position": { "lat": 2.1259899, "lng": 102.4258454 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "4",
+     "position": { "lat": 2.1344004, "lng": 102.4128804 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "5",
+     "position": { "lat": 2.2466826, "lng": 102.4439152 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "6",
+     "position": { "lat": 2.243156, "lng": 102.4421359 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "7",
+     "position": { "lat": 2.2465547, "lng": 102.4370338 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "8",
+     "position": { "lat": 2.2765249, "lng": 102.4354471 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "9",
+     "position": { "lat": 2.1502701, "lng": 102.4220436 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "10",
+     "position": { "lat": 2.1463274, "lng": 102.4223609 },
+     "category": "DUN"
+  },
+  {
+     "code": "Merlimau",
+     "description": "11",
+     "position": { "lat": 2.1300329, "lng": 102.4332324 },
+     "category": "DUN"
+  },
+  {
+     "code": "Taman Bertam Perdana",
+     "description": "1",
+     "position": { "lat": 2.2425793, "lng": 102.2160837 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Powertek Telok Gong",
+     "description": "1, 2, 3",
+     "position": { "lat": 2.3558445, "lng": 102.0644058 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Powertek Telok Gong",
+     "description": "4",
+     "position": { "lat": 2.3505947, "lng": 102.0573854 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Powertek Telok Gong",
+     "description": "5",
+     "position": { "lat": 2.3480097, "lng": 102.0539842 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Kilang Ayam",
+     "description": "1",
+     "position": { "lat": 2.3261436, "lng": 102.0873164 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Kilang Ayam",
+     "description": "2",
+     "position": { "lat": 2.3259875, "lng": 102.0875576 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Kg Bukit Apit",
+     "description": "1",
+     "position": { "lat": 2.3905556, "lng": 102.1253015 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Kg Bukit Apit",
+     "description": "2",
+     "position": { "lat": 2.387122, "lng": 102.1253378 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Simpang Taman Bukit Emas Rembia",
+     "description": "1",
+     "position": { "lat": 2.3458921, "lng": 102.2047997 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Simpang Taman Bukit Emas Rembia",
+     "description": "2",
+     "position": { "lat": 2.3454862, "lng": 102.2045428 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Baru Hutan Percha",
+     "description": "1",
+     "position": { "lat": 2.4468769, "lng": 102.3379548 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Baru Hutan Percha",
+     "description": "2",
+     "position": { "lat": 2.4473372, "lng": 102.3369987 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Baru Hutan Percha",
+     "description": "3",
+     "position": { "lat": 2.4483015, "lng": 102.3327666 },
+     "category": "JKR"
+  },
+  {
+     "code": "Bulatan Pantai Belimbing",
+     "description": "1",
+     "position": { "lat": 2.3435864, "lng": 102.2555384 },
+     "category": "JKR"
+  },
+  {
+     "code": "Bulatan Pantai Belimbing",
+     "description": "2",
+     "position": { "lat": 2.3435634, "lng": 102.2557299 },
+     "category": "JKR"
+  },
+  {
+     "code": "Bulatan Pantai Belimbing",
+     "description": "3",
+     "position": { "lat": 2.3435239, "lng": 102.2561046 },
+     "category": "JKR"
+  },
+  {
+     "code": "Bulatan Pantai Belimbing",
+     "description": "4",
+     "position": { "lat": 2.3432013, "lng": 102.2558247 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Taman Merdeka",
+     "description": "1",
+     "position": { "lat": 2.2593876, "lng": 102.2404005 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Taman Merdeka",
+     "description": "2",
+     "position": { "lat": 2.2591263, "lng": 102.2402085 },
+     "category": "JKR"
+  },
+  {
+     "code": "Jalan Simpang Penghulu Saadon",
+     "description": "1",
+     "position": { "lat": 2.1150287, "lng": 102.4786367 },
+     "category": "JKR"
+  },
+  {
+     "code": "Taman Bukit Katil Damai 2",
+     "description": "1",
+     "position": { "lat": 2.2429822, "lng": 102.3139288 },
+     "category": "JKR"
+  },
+  {
+     "code": "Persimpangan Taman Bukit Katil Damai",
+     "description": "1",
+     "position": { "lat": 2.2429102, "lng": 102.3140253 },
+     "category": "JKR"
+  }
+]
