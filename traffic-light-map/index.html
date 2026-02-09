@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traffic Light Map | Melaka</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+
+<body>
+    <div id="app-container">
+        <aside id="sidebar">
+            <header>
+                <h2>
+                    <img src="icon.png" alt="Traffic Light Icon" class="title-icon"> 
+                    <span>Traffic Light Map @ Melaka</span>
+                </h2>
+            </header>
+
+            <div class="search-group">
+                <div id="global-search-container">
+                    <input type="text" id="global-search-box" placeholder="Search any place or address...">
+                    <button id="clear-search-btn" title="Clear Search">X</button>
+                </div>
+
+                <div id="filter-search-container">
+                    <input type="text" id="search-box" placeholder="Search traffic light code or description...">
+                    <button id="clear-filter-btn" title="Clear Filters">X</button>
+                </div>
+                
+                <button id="find-me-btn">
+                    Find My Location
+                </button>
+            </div>
+
+            <div id="scrollable-area">
+                <section id="filter-controls">
+<div class="legend-container">
+    <strong>Pin Legend:</strong>
+    <div class="legend-items">
+        <span class="legend-item"><i class="dot dot-3way"></i> 3-way</span>
+        <span class="legend-item"><i class="dot dot-4way"></i> 4-way</span>
+        <span class="legend-item"><i class="dot dot-pedestrian"></i> Pedestrian</span>
+    </div>
+</div>
+
+<div class="filter-group">
+    <strong>District:</strong>
+    <div id="options-wrapper">
+        <div class="filter-option"><label><input type="checkbox" class="cat-filter" value="Alor Gajah"> Alor Gajah</label></div>
+        <div class="filter-option"><label><input type="checkbox" class="cat-filter" value="Melaka Tengah"> Melaka Tengah</label></div>
+        <div class="filter-option"><label><input type="checkbox" class="cat-filter" value="Jasin"> Jasin</label></div>
+    </div>
+        <strong>Intersection Type:</strong>
+    <div id="options-wrapper">
+        <div class="filter-option"><label><input type="checkbox" class="opt-filter" value="3 way"> 3-Way</label></div>
+        <div class="filter-option"><label><input type="checkbox" class="opt-filter" value="4 way"> 4-Way</label></div>
+        <div class="filter-option"><label><input type="checkbox" class="opt-filter" value="Pedestrian"> Pedestrian</label></div>
+    </div>
+</div>
+
+
+
+                <ul id="traffic-light-list" aria-label="Traffic Light List"></ul>
+            </div>
+        </aside>
+
+        <main id="map" aria-label="Interactive Map"></main>
+    </div>
+
+    <script src="script.js" defer></script>
+    <script defer src="https://maps.googleapis.com/maps/api/js?key=APIKEY&callback=initMap&v=weekly&libraries=places,marker,geometry&loading=async"></script>
+</body>
+</html>

@@ -1,0 +1,286 @@
+/* =================================
+   1. GLOBAL & BASE STYLES
+   ================================= */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+:root {
+  --primary-blue: #007bff;
+  --primary-dark: #0056b3;
+  --border-color: #696969;
+  --bg-light: #f8f9fa;
+  --text-main: #333;
+  --text-muted: #666;
+  --active-blue: #cedbfd;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  color: var(--text-main);
+  background-color: #fff;
+}
+
+/* =================================
+   2. MAIN APP LAYOUT
+   ================================= */
+#app-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+#sidebar {
+  width: 340px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid #ddd;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+  z-index: 10;
+}
+
+#map {
+  flex-grow: 1;
+  height: 100%;
+}
+
+/* =================================
+   3. SIDEBAR HEADER & SEARCH
+   ================================= */
+header {
+  padding: 20px 15px 10px;
+}
+
+header h2 {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0;
+}
+
+.title-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.search-group {
+  padding: 0 15px 15px;
+}
+
+#global-search-container,
+#filter-search-container {
+  position: relative;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+#global-search-box, 
+#search-box {
+  width: 100%;
+  padding: 12px 35px 12px 15px; /* Reduced right padding slightly */
+  margin-bottom: 0; 
+  box-sizing: border-box; /* Ensures padding stays inside the width */
+  border: 1px solid var(--border-color);
+  border-radius: 8px; /* Matching your pill-shaped design */
+  font-size: 14px;
+  outline: none;
+  display: block;
+}
+
+#global-search-box:focus, 
+#search-box:focus {
+  border-color: var(--primary-blue);
+}
+
+#clear-search-btn,
+#clear-filter-btn {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  color: #999;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 5;
+}
+
+#clear-search-btn:hover,
+#clear-filter-btn:hover {
+  color: var(--text-main);
+}
+
+#find-me-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: var(--primary-blue);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: background 0.2s;
+}
+
+#find-me-btn:hover {
+  background-color: var(--primary-dark);
+}
+
+/* =================================
+   4. SCROLLABLE FILTERS & LIST
+   ================================= */
+#scrollable-area {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 0 15px;
+  scrollbar-gutter: stable;
+}
+
+/* --- Legend Styling --- */
+.legend-container {
+  margin-bottom: 20px;
+  padding: 12px;
+  background: var(--bg-light);
+  border-radius: 8px;
+}
+
+.legend-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.legend-item {
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* --- Legend Styling Fix --- */
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid #333;
+}
+
+.dot-3way { background: #125092; }
+.dot-4way { background: #800080; }
+.dot-pedestrian { background: #bb6400; }
+
+/* --- Checkbox Styling --- */
+.filter-group {
+  margin-bottom: 20px;
+}
+
+.filter-group strong {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.filter-option {
+  display: flex;
+
+  align-items: center;
+  margin-bottom: 8px;
+  margin-right: 12px;
+}
+
+#options-wrapper {
+  display: flex;
+  flex-wrap: wrap; 
+  flex-wrap: wrap;
+}
+
+/* Modern Checkbox Color */
+.filter-option input[type="checkbox"] {
+  accent-color: var(--primary-blue);
+  width: 18px;
+  height: 18px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.filter-option label {
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* =================================
+   5. TRAFFIC LIGHT LIST (Enhanced)
+   ================================= */
+#traffic-light-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px; /* Adds space between items without needing margins */
+}
+
+#traffic-light-list li {
+  padding: 14px 16px;
+  background-color: #ffffff;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 13px;
+  line-height: 1.4;
+  transition: all 0.2s ease-in-out;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+#traffic-light-list li:hover {
+  background-color: #f0f7ff;
+  border-color: var(--primary-blue);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+#traffic-light-list li strong {
+  display: block; /* Puts the ID (e.g., AG 04) on its own line */
+  font-size: 14px;
+  color: var(--primary-blue);
+  margin-bottom: 4px;
+}
+
+#traffic-light-list li.active-list-item {
+  background-color: var(--active-blue);
+  color: var(--primary-dark);
+  border-color: var(--primary-blue);
+  font-weight: 500;
+}
+/* =================================
+   6. RESPONSIVE DESIGN (Mobile)
+   ================================= */
+@media (max-width: 768px) {
+  #app-container {
+    flex-direction: column;
+  }
+
+  #sidebar {
+    width: 100%;
+    height: 45vh;
+  }
+
+  #map {
+    width: 100%;
+    height: 55vh;
+  }
+}
